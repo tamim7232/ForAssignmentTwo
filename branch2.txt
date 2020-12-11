@@ -1,0 +1,2 @@
+This is branch 2
+This txt file only exist in branch 2
