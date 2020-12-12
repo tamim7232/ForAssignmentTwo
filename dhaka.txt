@@ -3,3 +3,4 @@ cotton and jute industries,
 with 80,000 skilled weavers. 
 Mughal Bengal generated 50% of the Mughal Empire's GDP, 
 which at the time constituted 29% of world GDP.
+I have learned basic things for Git 
